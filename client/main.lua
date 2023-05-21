@@ -14,6 +14,6 @@ end)
 ----------------------------------------------------------------------------------------------
         -- DO NOT TOUCH ANYTHING FROM HERE, WHEN YOU DO SUPPORT WILL BE REVOKED --
 ----------------------------------------------------------------------------------------------
-                -- SFX CUSTOMS ORIGINALS - ADVANCED BUSINESSES SYSTEM --
+                --   SFX CUSTOMS ORIGINALS - JOB CREATOR SYSTEM    --
                 --     DISCORD: https://discord.gg/5ZrJBrKwpG         --
 ----------------------------------------------------------------------------------------------
